@@ -1,5 +1,4 @@
 import serial
-import time
 
 ser = serial.Serial('/dev/ttyACM1',9600)
 

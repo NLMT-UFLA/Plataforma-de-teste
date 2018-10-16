@@ -34,3 +34,5 @@ while True:
 	print(x,y,f)
 
 	time.sleep(0.01)
+
+
